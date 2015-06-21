@@ -1,4 +1,5 @@
 #!coding=utf-8
+#http://www.earthol.com/city.html
 
 cities = {
 	'中卫',
